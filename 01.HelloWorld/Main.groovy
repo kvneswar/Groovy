@@ -15,5 +15,12 @@ class Main{
       y = 11111111111111111111111111111111
       println y.class
       println y
+
+      /*
+          Converting Data Types.
+      */
+      def z = (float) 1
+      println z.class
+
     }
 }
